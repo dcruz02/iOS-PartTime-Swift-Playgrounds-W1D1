@@ -105,7 +105,7 @@ greeting.uppercased()
 //:
 //: Print out the uppercase and lowercase versions of the string below:
 
-var schoolName = "Lightouse Labs"
+var schoolName = "Lighthouse Labs"
 print(schoolName.uppercased())
 print(schoolName.lowercased())
 
